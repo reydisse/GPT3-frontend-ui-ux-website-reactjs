@@ -13,5 +13,8 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+## Info
+Built from this figma design [https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0%3A15&t=6jRwuwZ67iYaDBqe-0](https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0%3A15&t=6jRwuwZ67iYaDBqe-0)
+
 ## Author
 Rey Disse
